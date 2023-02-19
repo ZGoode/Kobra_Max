@@ -9,7 +9,7 @@ stc_sdcard_init_t stcCardInitCfg =
 {
     SdiocBusWidth4Bit,
     (en_sdioc_clk_freq_t)16000000u,
-    SdiocHighSpeedMode,
+    SdiocNormalSpeedMode,
     NULL,
 };
 
